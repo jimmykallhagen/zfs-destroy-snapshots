@@ -81,3 +81,4 @@ Done! All snapshots for nordix have been processed.
 
 Press Enter to continue...
 ```
+## Hoe to install
