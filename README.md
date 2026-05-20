@@ -53,7 +53,7 @@ Enter selection number (or 'q' to quit):
 Enter selection number (or 'q' to quit): 1
 
 ╔════════════════════════════════════════════════════════════════╗
-║                        ⚠️  WARNING ⚠️                            ║
+║                        ⚠️  WARNING ⚠️                          ║
 ╠════════════════════════════════════════════════════════════════╝
 ║ You are about to destroy ALL snapshots for:
 ║
