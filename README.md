@@ -1,5 +1,11 @@
 # Lists all ZFS datasets that have snapshots so you can choose to bulk delete all of them for that specific dataset
 
+**Part of:** [Nordix](https://github.com/jimmykallhagen/Nordix)  
+**Author:** Jimmy Källhagen  
+**License:** GPL-3.0-or-later
+
+---
+
 ```Fish
   ╔═══════════════════════════════════════════════════════════╗
   ║     Nordix: ZFS Snapshot Destroyer - Interactive Mode     ║
