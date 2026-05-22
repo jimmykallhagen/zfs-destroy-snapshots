@@ -87,4 +87,25 @@ Done! All snapshots for nordix have been processed.
 
 Press Enter to continue...
 ```
-## Hoe to install
+## How to install
+
+**Arch  / Nordix
+```Fish
+git clone ssh://aur.archlinux.org/zfs-destroy-snapshots.git
+cd zfs-destroy-snapshots
+makepkg -i
+```
+or:
+```Fish
+paru -S zfs-destroy-snapshots
+# or
+yay -S zfs-destroy-snapshots
+```
+---
+
+**Other systems**
+```Fish
+git clone https://github.com/jimmykallhagen/zfs-destroy-snapshots.git
+cd zfs-destroy-snapshots
+sudo install -Dm755 zfs-destroy-snapshots /usr/bin/zfs-destroy-snapshots
+```
